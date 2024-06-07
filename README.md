@@ -21,3 +21,7 @@ npm i
 ```
 npm run dev
 ```
+
+### Final step
+
+[Click here](http://localhost:5173/)
