@@ -8,7 +8,7 @@ Click on code button and download zip file
 
 Extract zip file on your system
 
-## __Step 3__
+### __Step 3__
 
 ### On Windows open cmd and type below commands
 
