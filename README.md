@@ -1,2 +1,2 @@
-# Currecny Converter in React  
-with Tailwind CSS
+# ___Currecny Converter in React with Tailwind CSS___
+
