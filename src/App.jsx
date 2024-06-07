@@ -52,11 +52,11 @@ function App() {
                             amount = {amount}
                             onAmountChange={
                               (amount) => {
-                               return setAmount(amount)
+                               setAmount(amount)
                               }}
                             onCurrencyChange = {
                               (currency) => {
-                             return setFrom(currency);
+                                setFrom(currency);
                             }}
                             currencyOptions = {options}
                             selectCurrency = {from}
@@ -82,11 +82,11 @@ function App() {
                             onAmountChange={
                               (amount) => {
                                 // setcAmount(amount)
-                                return setConvertedAmount(amount)
+                                setConvertedAmount(amount)
                               }}
                             onCurrencyChange = {
                               (currency) => {
-                              return setTo(currency);
+                              setTo(currency);
                             }}
                             currencyOptions = {options}
                             selectCurrency = {to}

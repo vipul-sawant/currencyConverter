@@ -5,6 +5,7 @@ function useCurrencyInfo(currency){
 
     const [data, setData] = useState({});
     console.log("data initial :",data);
+    console.log("currency :",currency);
 
     useEffect(()=>{
 
