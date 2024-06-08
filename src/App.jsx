@@ -40,6 +40,7 @@ function App() {
     >
         <div className="w-full">
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
+                <center> <h1 style={{"color":"white","margin":"2.5px","fontSize":"24px","fontWeight":"bolder"}}> Currency Converter App </h1> </center>
                 <form
                     onSubmit={(e) => {
                         e.preventDefault();
