@@ -1,20 +1,27 @@
 # ___Currecny Converter in React with Tailwind CSS___
 
-### __Step 1__
+## ___Project Working___
+
+* By default Money Input is 0 and default currency is USD and is converted to INR.  
+* You can select other currencies from dropdown.  
+* You can even swap between To and From in converter.  
+
+### ___Setting Up The Project___
+
+#### __Step 1__
 
 Click on code button and download zip file
 
-### __Step 2__
+#### __Step 2__
 
-Extract zip file on your system
+Extract zip file on your system and a folder will be unzipped.  
+Open that folder and in its path bar remove the path and type cmd.  
+A Commnad Line Terminal will open with the folder's path.
 
-### __Step 3__
+#### __Step 3__
 
-### On Windows open cmd and type below commands
+##### In the terminal type below commands
 
-```
-cd currencyConverter
-```
 ```
 npm i
 ```
@@ -22,6 +29,6 @@ npm i
 npm run dev
 ```
 
-### Final step
+#### ___Final step___
 
-[Click here](http://localhost:5173/)
+To open site. [Click here](http://localhost:5173/)
